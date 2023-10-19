@@ -20,7 +20,7 @@ import org.springframework.web.server.ResponseStatusException;
 
 import com.example.Farmacia.model.Categoria;
 import com.example.Farmacia.repository.CategoriaRepository;
-import com.generation.farmacia.repository.ProdutoRepository;
+import com.example.Farmacia.repository.ProdutoRepository;
 
 import jakarta.validation.Valid;
 
